@@ -1,0 +1,9 @@
+flask_sqlalchemy
+flask
+jinja2
+numpy
+pillow
+requests
+werkzeug
+openpyxl
+duckduckgo_search
